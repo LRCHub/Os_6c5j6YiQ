@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Good Boy Gone Bad – Japanese Version",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2025-12-30T15:45:24.143695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad (Japanese Ver.) - Good Boy Gone Bad (Japanese Version)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/01_Good_Boy_Gone_Bad_(Japanese_Ver.)_-_Good_Boy_Gone_Bad_(Japanese_Version)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/02_Good_Boy_Gone_Bad_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad",
+      "artist": "TXT",
+      "has_synced": true,
+      "path": "select/03_Good_Boy_Gone_Bad_TXT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad",
+      "artist": "Doc Holliday",
+      "has_synced": false,
+      "path": "select/04_Good_Boy_Gone_Bad_Doc_Holliday.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad (Japanese Version)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/05_Good_Boy_Gone_Bad_(Japanese_Version)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad - Japanese Ver.",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/06_Good_Boy_Gone_Bad_-_Japanese_Ver._TOMORROW_X_TOGETHER.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad",
+      "artist": "TXT",
+      "has_synced": true,
+      "path": "select/07_Good_Boy_Gone_Bad_TXT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad",
+      "artist": "TOMORROW X TOGETHER OFFICIAL",
+      "has_synced": true,
+      "path": "select/08_Good_Boy_Gone_Bad_TOMORROW_X_TOGETHER_OFFICIAL.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad",
+      "artist": "TOMORROW X TOGETHER (투모로우바이투게더)",
+      "has_synced": true,
+      "path": "select/09_Good_Boy_Gone_Bad_TOMORROW_X_TOGETHER_(투모로우바이투게더).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad (Japanese Version)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/10_Good_Boy_Gone_Bad_(Japanese_Version)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad - Japanese Ver.",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/11_Good_Boy_Gone_Bad_-_Japanese_Ver._TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad (Unpopular Theory Remix)",
+      "artist": "TXT",
+      "has_synced": true,
+      "path": "select/12_Good_Boy_Gone_Bad_(Unpopular_Theory_Remix)_TXT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Boy Gone Bad",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Boy_Gone_Bad_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
